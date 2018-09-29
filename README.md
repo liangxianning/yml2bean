@@ -3,7 +3,7 @@
 yml中的属性转换为java的各种类型
 
 # 结果
-```
+```yml
 person:
   name: liangxn
   age: 18
